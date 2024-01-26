@@ -1,0 +1,3545 @@
+---
+- state: Alabama
+  district: '1'
+  name: Jerry Carl
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Alabama
+  district: '2'
+  name: Barry Moore
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Alabama
+  district: '3'
+  name: Mike Rogers
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Alabama
+  district: '4'
+  name: Robert Aderholt
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Alabama
+  district: '5'
+  name: Dale Strong
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Alabama
+  district: '6'
+  name: Gary Palmer
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Alabama
+  district: '7'
+  name: Terri Sewell
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Alaska
+  district: At-large
+  name: Mary Peltola
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arizona
+  district: '1'
+  name: David Schweikert
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arizona
+  district: '2'
+  name: Eli Crane
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arizona
+  district: '3'
+  name: Ruben Gallego
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arizona
+  district: '4'
+  name: Greg Stanton
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arizona
+  district: '5'
+  name: Andy Biggs
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arizona
+  district: '6'
+  name: Juan Ciscomani
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arizona
+  district: '7'
+  name: Raúl Grijalva
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arizona
+  district: '8'
+  name: Debbie Lesko
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arizona
+  district: '9'
+  name: Paul Gosar
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arkansas
+  district: '1'
+  name: Rick Crawford
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arkansas
+  district: '2'
+  name: French Hill
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arkansas
+  district: '3'
+  name: Steve Womack
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Arkansas
+  district: '4'
+  name: Bruce Westerman
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '1'
+  name: Doug LaMalfa
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '2'
+  name: Jared Huffman
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '3'
+  name: Kevin Kiley
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '4'
+  name: Mike Thompson
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '5'
+  name: Tom McClintock
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '6'
+  name: Ami Bera
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '7'
+  name: Doris Matsui
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '8'
+  name: John Garamendi
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '9'
+  name: Josh Harder
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '10'
+  name: Mark DeSaulnier
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '11'
+  name: Nancy Pelosi
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '12'
+  name: Barbara Lee
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '13'
+  name: John Duarte
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '14'
+  name: Eric Swalwell
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '15'
+  name: Kevin Mullin
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '16'
+  name: Anna Eshoo
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '17'
+  name: Ro Khanna
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '18'
+  name: Zoe Lofgren
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '19'
+  name: Jimmy Panetta
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '20'
+  name: Kevin McCarthy
+  party: R
+  notes: "(until December 31 2023)[j] - Vacant"
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '21'
+  name: Jim Costa
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '22'
+  name: David Valadao
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '23'
+  name: Jay Obernolte
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '24'
+  name: Salud Carbajal
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '25'
+  name: Raul Ruiz
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '26'
+  name: Julia Brownley
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '27'
+  name: Mike Garcia
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '28'
+  name: Judy Chu
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '29'
+  name: Tony Cárdenas
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '30'
+  name: Adam Schiff
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '31'
+  name: Grace Napolitano
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '32'
+  name: Brad Sherman
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '33'
+  name: Pete Aguilar
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '34'
+  name: Jimmy Gomez
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '35'
+  name: Norma Torres
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '36'
+  name: Ted Lieu
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '37'
+  name: Sydney Kamlager-Dove
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '38'
+  name: Linda Sánchez
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '39'
+  name: Mark Takano
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '40'
+  name: Young Kim
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '41'
+  name: Ken Calvert
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '42'
+  name: Robert Garcia
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '43'
+  name: Maxine Waters
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '44'
+  name: Nanette Barragán
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '45'
+  name: Michelle Steel
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '46'
+  name: Lou Correa
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '47'
+  name: Katie Porter
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '48'
+  name: Darrell Issa
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '49'
+  name: Mike Levin
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '50'
+  name: Scott Peters
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '51'
+  name: Sara Jacobs
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: California
+  district: '52'
+  name: Juan Vargas
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Colorado
+  district: '1'
+  name: Diana DeGette
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Colorado
+  district: '2'
+  name: Joe Neguse
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Colorado
+  district: '3'
+  name: Lauren Boebert
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Colorado
+  district: '4'
+  name: Ken Buck
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Colorado
+  district: '5'
+  name: Doug Lamborn
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Colorado
+  district: '6'
+  name: Jason Crow
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Colorado
+  district: '7'
+  name: Brittany Pettersen
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Colorado
+  district: '8'
+  name: Yadira Caraveo
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Connecticut
+  district: '1'
+  name: John B. Larson
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Connecticut
+  district: '2'
+  name: Joe Courtney
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Connecticut
+  district: '3'
+  name: Rosa DeLauro
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Connecticut
+  district: '4'
+  name: Jim Himes
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Connecticut
+  district: '5'
+  name: Jahana Hayes
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Delaware
+  district: At-large
+  name: Lisa Blunt Rochester
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '1'
+  name: Matt Gaetz
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '2'
+  name: Neal Dunn
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '3'
+  name: Kat Cammack
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '4'
+  name: Aaron Bean
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '5'
+  name: John Rutherford
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '6'
+  name: Michael Waltz
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '7'
+  name: Cory Mills
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '8'
+  name: Bill Posey
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '9'
+  name: Darren Soto
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '10'
+  name: Maxwell Frost
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '11'
+  name: Daniel Webster
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '12'
+  name: Gus Bilirakis
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '13'
+  name: Anna Paulina Luna
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '14'
+  name: Kathy Castor
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '15'
+  name: Laurel Lee
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '16'
+  name: Vern Buchanan
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '17'
+  name: Greg Steube
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '18'
+  name: Scott Franklin
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '19'
+  name: Byron Donalds
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '20'
+  name: Sheila Cherfilus-McCormick
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '21'
+  name: Brian Mast
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '22'
+  name: Lois Frankel
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '23'
+  name: Jared Moskowitz
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '24'
+  name: Frederica Wilson
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '25'
+  name: Debbie Wasserman Schultz
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '26'
+  name: Mario Díaz-Balart
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '27'
+  name: María Elvira Salazar
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Florida
+  district: '28'
+  name: Carlos A. Giménez
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '1'
+  name: Buddy Carter
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '2'
+  name: Sanford Bishop
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '3'
+  name: Drew Ferguson
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '4'
+  name: Hank Johnson
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '5'
+  name: Nikema Williams
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '6'
+  name: Rich McCormick
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '7'
+  name: Lucy McBath
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '8'
+  name: Austin Scott
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '9'
+  name: Andrew Clyde
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '10'
+  name: Mike Collins
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '11'
+  name: Barry Loudermilk
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '12'
+  name: Rick Allen
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '13'
+  name: David Scott
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Georgia
+  district: '14'
+  name: Marjorie Taylor Greene
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Hawaii
+  district: '1'
+  name: Ed Case
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Hawaii
+  district: '2'
+  name: Jill Tokuda
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Idaho
+  district: '1'
+  name: Russ Fulcher
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Idaho
+  district: '2'
+  name: Mike Simpson
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '1'
+  name: Jonathan Jackson
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '2'
+  name: Robin Kelly
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '3'
+  name: Delia Ramirez
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '4'
+  name: Chuy García
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '5'
+  name: Mike Quigley
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '6'
+  name: Sean Casten
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '7'
+  name: Danny Davis
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '8'
+  name: Raja Krishnamoorthi
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '9'
+  name: Jan Schakowsky
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '10'
+  name: Brad Schneider
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '11'
+  name: Bill Foster
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '12'
+  name: Mike Bost
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '13'
+  name: Nikki Budzinski
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '14'
+  name: Lauren Underwood
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '15'
+  name: Mary Miller
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '16'
+  name: Darin LaHood
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Illinois
+  district: '17'
+  name: Eric Sorensen
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Indiana
+  district: '1'
+  name: Frank J. Mrvan
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Indiana
+  district: '2'
+  name: Rudy Yakym
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Indiana
+  district: '3'
+  name: Jim Banks
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Indiana
+  district: '4'
+  name: Jim Baird
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Indiana
+  district: '5'
+  name: Victoria Spartz
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Indiana
+  district: '6'
+  name: Greg Pence
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Indiana
+  district: '7'
+  name: André Carson
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Indiana
+  district: '8'
+  name: Larry Bucshon
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Indiana
+  district: '9'
+  name: Erin Houchin
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Iowa
+  district: '1'
+  name: Mariannette Miller-Meeks
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Iowa
+  district: '2'
+  name: Ashley Hinson
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Iowa
+  district: '3'
+  name: Zach Nunn
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Iowa
+  district: '4'
+  name: Randy Feenstra
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Kansas
+  district: '1'
+  name: Tracey Mann
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Kansas
+  district: '2'
+  name: Jake LaTurner
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Kansas
+  district: '3'
+  name: Sharice Davids
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Kansas
+  district: '4'
+  name: Ron Estes
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Kentucky
+  district: '1'
+  name: James Comer
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Kentucky
+  district: '2'
+  name: Brett Guthrie
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Kentucky
+  district: '3'
+  name: Morgan McGarvey
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Kentucky
+  district: '4'
+  name: Thomas Massie
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Kentucky
+  district: '5'
+  name: Hal Rogers
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Kentucky
+  district: '6'
+  name: Andy Barr
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Louisiana
+  district: '1'
+  name: Steve Scalise
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Louisiana
+  district: '2'
+  name: Troy Carter
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Louisiana
+  district: '3'
+  name: Clay Higgins
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Louisiana
+  district: '4'
+  name: Mike Johnson
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Louisiana
+  district: '5'
+  name: Julia Letlow
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Louisiana
+  district: '6'
+  name: Garret Graves
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Maine
+  district: '1'
+  name: Chellie Pingree
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Maine
+  district: '2'
+  name: Jared Golden
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Maryland
+  district: '1'
+  name: Andy Harris
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Maryland
+  district: '2'
+  name: Dutch Ruppersberger
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Maryland
+  district: '3'
+  name: John Sarbanes
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Maryland
+  district: '4'
+  name: Glenn Ivey
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Maryland
+  district: '5'
+  name: Steny Hoyer
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Maryland
+  district: '6'
+  name: David Trone
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Maryland
+  district: '7'
+  name: Kweisi Mfume
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Maryland
+  district: '8'
+  name: Jamie Raskin
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Massachusetts
+  district: '1'
+  name: Richard Neal
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Massachusetts
+  district: '2'
+  name: Jim McGovern
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Massachusetts
+  district: '3'
+  name: Lori Trahan
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Massachusetts
+  district: '4'
+  name: Jake Auchincloss
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Massachusetts
+  district: '5'
+  name: Katherine Clark
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Massachusetts
+  district: '6'
+  name: Seth Moulton
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Massachusetts
+  district: '7'
+  name: Ayanna Pressley
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Massachusetts
+  district: '8'
+  name: Stephen Lynch
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Massachusetts
+  district: '9'
+  name: Bill Keating
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '1'
+  name: Jack Bergman
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '2'
+  name: John Moolenaar
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '3'
+  name: Hillary Scholten
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '4'
+  name: Bill Huizenga
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '5'
+  name: Tim Walberg
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '6'
+  name: Debbie Dingell
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '7'
+  name: Elissa Slotkin
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '8'
+  name: Dan Kildee
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '9'
+  name: Lisa McClain
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '10'
+  name: John James
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '11'
+  name: Haley Stevens
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '12'
+  name: Rashida Tlaib
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Michigan
+  district: '13'
+  name: Shri Thanedar
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Minnesota
+  district: '1'
+  name: Brad Finstad
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Minnesota
+  district: '2'
+  name: Angie Craig
+  party: DFL[o]
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Minnesota
+  district: '3'
+  name: Dean Phillips
+  party: DFL[o]
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Minnesota
+  district: '4'
+  name: Betty McCollum
+  party: DFL[o]
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Minnesota
+  district: '5'
+  name: Ilhan Omar
+  party: DFL[o]
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Minnesota
+  district: '6'
+  name: Tom Emmer
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Minnesota
+  district: '7'
+  name: Michelle Fischbach
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Minnesota
+  district: '8'
+  name: Pete Stauber
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Mississippi
+  district: '1'
+  name: Trent Kelly
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Mississippi
+  district: '2'
+  name: Bennie Thompson
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Mississippi
+  district: '3'
+  name: Michael Guest
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Mississippi
+  district: '4'
+  name: Mike Ezell
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Missouri
+  district: '1'
+  name: Cori Bush
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Missouri
+  district: '2'
+  name: Ann Wagner
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Missouri
+  district: '3'
+  name: Blaine Luetkemeyer
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Missouri
+  district: '4'
+  name: Mark Alford
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Missouri
+  district: '5'
+  name: Emanuel Cleaver
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Missouri
+  district: '6'
+  name: Sam Graves
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Missouri
+  district: '7'
+  name: Eric Burlison
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Missouri
+  district: '8'
+  name: Jason Smith
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Montana
+  district: At-large
+  name: Ryan Zinke
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Montana
+  district: At-large
+  name: Matt Rosendale
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Nebraska
+  district: '1'
+  name: Mike Flood
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Nebraska
+  district: '2'
+  name: Don Bacon
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Nebraska
+  district: '3'
+  name: Adrian Smith
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Nevada
+  district: '1'
+  name: Dina Titus
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Nevada
+  district: '2'
+  name: Mark Amodei
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Nevada
+  district: '3'
+  name: Susie Lee
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Nevada
+  district: '4'
+  name: Steven Horsford
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Hampshire
+  district: '1'
+  name: Chris Pappas
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Hampshire
+  district: '2'
+  name: Annie Kuster
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Jersey
+  district: '1'
+  name: Donald Norcross
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Jersey
+  district: '2'
+  name: Jeff Van Drew
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Jersey
+  district: '3'
+  name: Andy Kim
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Jersey
+  district: '4'
+  name: Chris Smith
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Jersey
+  district: '5'
+  name: Josh Gottheimer
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Jersey
+  district: '6'
+  name: Frank Pallone
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Jersey
+  district: '7'
+  name: Thomas Kean Jr.
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Jersey
+  district: '8'
+  name: Rob Menendez
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Jersey
+  district: '9'
+  name: Bill Pascrell
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Jersey
+  district: '10'
+  name: Donald Payne Jr.
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Jersey
+  district: '11'
+  name: Mikie Sherrill
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Jersey
+  district: '12'
+  name: Bonnie Watson Coleman
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Mexico
+  district: '1'
+  name: Melanie Stansbury
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Mexico
+  district: '2'
+  name: Gabe Vasquez
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New Mexico
+  district: '3'
+  name: Teresa Leger Fernandez
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '1'
+  name: Nick LaLota
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '2'
+  name: Andrew Garbarino
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '3'
+  name: George Santos
+  party: R
+  notes: "(until December 1 2023)[i] - Vacant"
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '4'
+  name: Anthony D'Esposito
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '5'
+  name: Gregory Meeks
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '6'
+  name: Grace Meng
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '7'
+  name: Nydia Velázquez
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '8'
+  name: Hakeem Jeffries
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '9'
+  name: Yvette Clarke
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '10'
+  name: Dan Goldman
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '11'
+  name: Nicole Malliotakis
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '12'
+  name: Jerry Nadler
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '13'
+  name: Adriano Espaillat
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '14'
+  name: Alexandria Ocasio-Cortez
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '15'
+  name: Ritchie Torres
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '16'
+  name: Jamaal Bowman
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '17'
+  name: Mike Lawler
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '18'
+  name: Pat Ryan
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '19'
+  name: Marc Molinaro
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '20'
+  name: Paul Tonko
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '21'
+  name: Elise Stefanik
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '22'
+  name: Brandon Williams
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '23'
+  name: Nick Langworthy
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '24'
+  name: Claudia Tenney
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '25'
+  name: Joseph Morelle
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: New York
+  district: '26'
+  name: Brian Higgins
+  party: D
+  notes: "(until February 2024)"
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '1'
+  name: Don Davis
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '2'
+  name: Deborah Ross
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '3'
+  name: Greg Murphy
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '4'
+  name: Valerie Foushee
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '5'
+  name: Virginia Foxx
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '6'
+  name: Kathy Manning
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '7'
+  name: David Rouzer
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '8'
+  name: Dan Bishop
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '9'
+  name: Richard Hudson
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '10'
+  name: Patrick McHenry
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '11'
+  name: Chuck Edwards
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '12'
+  name: Alma Adams
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '13'
+  name: Wiley Nickel
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Carolina
+  district: '14'
+  name: Jeff Jackson
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: North Dakota
+  district: At-large
+  name: Kelly Armstrong
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '1'
+  name: Greg Landsman
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '2'
+  name: Brad Wenstrup
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '3'
+  name: Joyce Beatty
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '4'
+  name: Jim Jordan
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '5'
+  name: Bob Latta
+  party: R
+  notes: "(until January 21 2024)[k]"
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '6'
+  name: Vacant
+  party:
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '7'
+  name: Max Miller
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '8'
+  name: Warren Davidson
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '9'
+  name: Marcy Kaptur
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '10'
+  name: Mike Turner
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '11'
+  name: Shontel Brown
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '12'
+  name: Troy Balderson
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '13'
+  name: Emilia Sykes
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '14'
+  name: David Joyce
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Ohio
+  district: '15'
+  name: Mike Carey
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Oklahoma
+  district: '1'
+  name: Kevin Hern
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Oklahoma
+  district: '2'
+  name: Josh Brecheen
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Oklahoma
+  district: '3'
+  name: Frank Lucas
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Oklahoma
+  district: '4'
+  name: Tom Cole
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Oklahoma
+  district: '5'
+  name: Stephanie Bice
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Oregon
+  district: '1'
+  name: Suzanne Bonamici
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Oregon
+  district: '2'
+  name: Cliff Bentz
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Oregon
+  district: '3'
+  name: Earl Blumenauer
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Oregon
+  district: '4'
+  name: Val Hoyle
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Oregon
+  district: '5'
+  name: Lori Chavez-DeRemer
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Oregon
+  district: '6'
+  name: Andrea Salinas
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '1'
+  name: Brian Fitzpatrick
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '2'
+  name: Brendan Boyle
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '3'
+  name: Dwight Evans
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '4'
+  name: Madeleine Dean
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '5'
+  name: Mary Gay Scanlon
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '6'
+  name: Chrissy Houlahan
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '7'
+  name: Susan Wild
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '8'
+  name: Matt Cartwright
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '9'
+  name: Dan Meuser
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '10'
+  name: Scott Perry
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '11'
+  name: Lloyd Smucker
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '12'
+  name: Summer Lee
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '13'
+  name: John Joyce
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '14'
+  name: Guy Reschenthaler
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '15'
+  name: Glenn Thompson
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '16'
+  name: Mike Kelly
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Pennsylvania
+  district: '17'
+  name: Chris Deluzio
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Rhode Island
+  district: '1'
+  name: David Cicilline
+  party: D
+  notes: "(until May 31 2023)[g]"
+  video:
+  opponent_name:
+  opponent_link:
+- state: Rhode Island
+  district: '1'
+  name: Gabe Amo
+  party: D
+  notes: "(from November 13 2023)[g]"
+  video:
+  opponent_name:
+  opponent_link:
+- state: Rhode Island
+  district: '2'
+  name: Seth Magaziner
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: South Carolina
+  district: '1'
+  name: Nancy Mace
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: South Carolina
+  district: '2'
+  name: Joe Wilson
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: South Carolina
+  district: '3'
+  name: Jeff Duncan
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: South Carolina
+  district: '4'
+  name: William Timmons
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: South Carolina
+  district: '5'
+  name: Ralph Norman
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: South Carolina
+  district: '6'
+  name: Jim Clyburn
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: South Carolina
+  district: '7'
+  name: Russell Fry
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: South Dakota
+  district: At-large
+  name: Dusty Johnson
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Tennessee
+  district: '1'
+  name: Diana Harshbarger
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Tennessee
+  district: '2'
+  name: Tim Burchett
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Tennessee
+  district: '3'
+  name: Chuck Fleischmann
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Tennessee
+  district: '4'
+  name: Scott DesJarlais
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Tennessee
+  district: '5'
+  name: Andy Ogles
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Tennessee
+  district: '6'
+  name: John Rose
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Tennessee
+  district: '7'
+  name: Mark Green
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Tennessee
+  district: '8'
+  name: David Kustoff
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Tennessee
+  district: '9'
+  name: Steve Cohen
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '1'
+  name: Nathaniel Moran
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '2'
+  name: Dan Crenshaw
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '3'
+  name: Keith Self
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '4'
+  name: Pat Fallon
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '5'
+  name: Lance Gooden
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '6'
+  name: Jake Ellzey
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '7'
+  name: Lizzie Fletcher
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '8'
+  name: Morgan Luttrell
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '9'
+  name: Al Green
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '10'
+  name: Michael McCaul
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '11'
+  name: August Pfluger
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '12'
+  name: Kay Granger
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '13'
+  name: Ronny Jackson
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '14'
+  name: Randy Weber
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '15'
+  name: Monica De La Cruz
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '16'
+  name: Veronica Escobar
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '17'
+  name: Pete Sessions
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '18'
+  name: Sheila Jackson Lee
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '19'
+  name: Jodey Arrington
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '20'
+  name: Joaquin Castro
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '21'
+  name: Chip Roy
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '22'
+  name: Troy Nehls
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '23'
+  name: Tony Gonzales
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '24'
+  name: Beth Van Duyne
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '25'
+  name: Roger Williams
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '26'
+  name: Michael C. Burgess
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '27'
+  name: Michael Cloud
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '28'
+  name: Henry Cuellar
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '29'
+  name: Sylvia Garcia
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '30'
+  name: Jasmine Crockett
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '31'
+  name: John Carter
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '32'
+  name: Colin Allred
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '33'
+  name: Marc Veasey
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '34'
+  name: Vicente Gonzalez
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '35'
+  name: Greg Casar
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '36'
+  name: Brian Babin
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '37'
+  name: Lloyd Doggett
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Texas
+  district: '38'
+  name: Wesley Hunt
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Utah
+  district: '1'
+  name: Blake Moore
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Utah
+  district: '2'
+  name: Chris Stewart
+  party: R
+  notes: "(until September 15 2023)[h]"
+  video:
+  opponent_name:
+  opponent_link:
+- state: Utah
+  district: '2'
+  name: Celeste Maloy
+  party: R
+  notes: "(from November 28 2023)[h]"
+  video:
+  opponent_name:
+  opponent_link:
+- state: Utah
+  district: '3'
+  name: John Curtis
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Utah
+  district: '4'
+  name: Burgess Owens
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Vermont
+  district: At-large
+  name: Becca Balint
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Virginia
+  district: '1'
+  name: Rob Wittman
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Virginia
+  district: '2'
+  name: Jen Kiggans
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Virginia
+  district: '3'
+  name: Bobby Scott
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Virginia
+  district: '4'
+  name: Jennifer McClellan
+  party: D
+  notes: "(from March 7 2023)[f]"
+  video:
+  opponent_name:
+  opponent_link:
+- state: Virginia
+  district: '5'
+  name: Bob Good
+  party: R
+  notes:
+  video: https://www.youtube.com/embed/JzwVlW9LLGg
+  opponent_name: Paul Riley
+  opponent_link: https://paulrileycongress.com/donate
+- state: Virginia
+  district: '6'
+  name: Ben Cline
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Virginia
+  district: '7'
+  name: Abigail Spanberger
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Virginia
+  district: '8'
+  name: Don Beyer
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Virginia
+  district: '9'
+  name: Morgan Griffith
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Virginia
+  district: '10'
+  name: Jennifer Wexton
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Virginia
+  district: '11'
+  name: Gerry Connolly
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Washington
+  district: '1'
+  name: Suzan DelBene
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Washington
+  district: '2'
+  name: Rick Larsen
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Washington
+  district: '3'
+  name: Marie Gluesenkamp Perez
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Washington
+  district: '4'
+  name: Dan Newhouse
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Washington
+  district: '5'
+  name: Cathy McMorris Rodgers
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Washington
+  district: '6'
+  name: Derek Kilmer
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Washington
+  district: '7'
+  name: Pramila Jayapal
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Washington
+  district: '8'
+  name: Kim Schrier
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Washington
+  district: '9'
+  name: Adam Smith
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Washington
+  district: '10'
+  name: Marilyn Strickland
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: West Virginia
+  district: '1'
+  name: Carol Miller
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: West Virginia
+  district: '2'
+  name: Alex Mooney
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Wisconsin
+  district: '1'
+  name: Bryan Steil
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Wisconsin
+  district: '2'
+  name: Mark Pocan
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Wisconsin
+  district: '3'
+  name: Derrick Van Orden
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Wisconsin
+  district: '4'
+  name: Gwen Moore
+  party: D
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Wisconsin
+  district: '5'
+  name: Scott Fitzgerald
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Wisconsin
+  district: '6'
+  name: Glenn Grothman
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Wisconsin
+  district: '7'
+  name: Tom Tiffany
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Wisconsin
+  district: '8'
+  name: Mike Gallagher
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: Wyoming
+  district: At-large
+  name: Harriet Hageman
+  party: R
+  notes:
+  video:
+  opponent_name:
+  opponent_link:
+- state: American Samoa
+  district: At-large
+  name: Amata Coleman Radewagen
+  party: R
+  notes: Non-voting member
+  video:
+  opponent_name:
+  opponent_link:
+- state: District of Columbia
+  district: At-large
+  name: Eleanor Holmes Norton
+  party: D
+  notes: Non-voting member
+  video:
+  opponent_name:
+  opponent_link:
+- state: Guam
+  district: At-large
+  name: James Moylan
+  party: R
+  notes: Non-voting member
+  video:
+  opponent_name:
+  opponent_link:
+- state: Northern Mariana Islands
+  district: At-large
+  name: Gregorio Sablan
+  party: D
+  notes: Non-voting member
+  video:
+  opponent_name:
+  opponent_link:
+- state: Puerto Rico
+  district: At-large
+  name: Jenniffer González
+  party: R-PNP[p]
+  notes: Non-voting member
+  video:
+  opponent_name:
+  opponent_link:
+- state: United States Virgin Islands
+  district: At-large
+  name: Stacey Plaskett
+  party: D
+  notes: Non-voting member
+  video:
+  opponent_name:
+  opponent_link:
