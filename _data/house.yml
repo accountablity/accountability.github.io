@@ -64,7 +64,9 @@
   name: Terri Sewell
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Alaska
@@ -72,7 +74,9 @@
   name: Mary Peltola
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
