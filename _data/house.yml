@@ -434,7 +434,9 @@
   name: Jay Obernolte
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://youtu.be/OsYsX0_rO1E?t=386
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -442,7 +444,9 @@
   name: Salud Carbajal
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -450,7 +454,9 @@
   name: Raul Ruiz
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -458,7 +464,9 @@
   name: Julia Brownley
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
