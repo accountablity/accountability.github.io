@@ -44,7 +44,9 @@
   name: Dale Strong
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/G4GmjXI1Btg
+  article:
   opponent_name:
   opponent_link:
 - state: Alabama
