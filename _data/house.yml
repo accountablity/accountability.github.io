@@ -684,7 +684,9 @@
   name: Darrell Issa
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -692,7 +694,9 @@
   name: Mike Levin
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -700,7 +704,9 @@
   name: Scott Peters
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -708,7 +714,9 @@
   name: Sara Jacobs
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -716,7 +724,9 @@
   name: Juan Vargas
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -724,7 +734,9 @@
   name: Diana DeGette
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -732,7 +744,9 @@
   name: Joe Neguse
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
