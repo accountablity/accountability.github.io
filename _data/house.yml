@@ -6,6 +6,7 @@
   notes:
   supports_trump: true
   video: https://www.youtube.com/embed/-xEQlee8QeE?start=1608
+  article:
   opponent_name:
   opponent_link:
 - state: Alabama
@@ -13,7 +14,9 @@
   name: Barry Moore
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/eBUu7yN0HT4
+  article:
   opponent_name:
   opponent_link:
 - state: Alabama
