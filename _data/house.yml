@@ -983,16 +983,20 @@
   district: '12'
   name: Gus Bilirakis
   party: R
-  notes:
+  notes: Was apparently endorsed by Trump in 2022.
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
   district: '13'
   name: Anna Paulina Luna
   party: R
-  notes:
-  video:
+  notes: Opens her interview touting her "Trump Endorsed" status.
+  supports_trump: true
+  video: https://www.youtube.com/embed/zpCu19HP9Qo
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -1000,7 +1004,9 @@
   name: Kathy Castor
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
