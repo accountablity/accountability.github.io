@@ -614,7 +614,9 @@
   name: Ken Calvert
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -622,7 +624,9 @@
   name: Robert Garcia
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -630,7 +634,9 @@
   name: Maxine Waters
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -638,7 +644,9 @@
   name: Nanette Barragán
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
