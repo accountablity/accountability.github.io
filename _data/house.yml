@@ -404,7 +404,9 @@
   name: Kevin McCarthy
   party: R
   notes: "(until December 31 2023)[j] - Vacant"
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/y0QRFFQaY-g
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -412,15 +414,19 @@
   name: Jim Costa
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
   district: '22'
   name: David Valadao
   party: R
-  notes:
+  notes: Chris Matys tried to primary Valadao as a "Trump Conservative".
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
