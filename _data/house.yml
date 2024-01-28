@@ -874,7 +874,9 @@
   name: Matt Gaetz
   party: R
   notes:
-  video:
+  supports_trump: TRUE
+  video: https://www.youtube.com/embed/z7eUQn-SzzI
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
