@@ -9,6 +9,14 @@ layout: default
     <title>Accountability</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css" integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
   </head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-K7TMPQ8SYG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-K7TMPQ8SYG');
+  </script>
   <body>
     <p></p>
     <h2>House Members</h2>
@@ -26,18 +34,23 @@ layout: default
       </thead>
       <tbody>
           {% for member in site.data.house %}
-          <tr>
-              <td>{{ member.state }}</td>
-              <td>{{ member.district }}</td>
-              <td>{{ member.name }}</td>
-              <td>{{ member.party }}</td>
-              <td>
-                {% if member.video %}
-                  <iframe width="560" height="315" src="{{ member.video }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                {% endif %}
-              </td>
-              <td><a href="{{ member.opponent_link }}" target="_blank">{{ member.opponent_name }}</a></td>
-          </tr>
+            {% if member.supports_trump %}
+              <tr>
+                  <td>{{ member.state }}</td>
+                  <td>{{ member.district }}</td>
+                  <td>{{ member.name }}</td>
+                  <td>{{ member.party }}</td>
+                  <td>
+                    {% if member.video %}
+                      <iframe width="320" height="180" src="{{ member.video }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    {% endif %}
+                    <br>
+                    {% if member.article %}
+                    {% endif %}
+                  </td>
+                  <td><a href="{{ member.opponent_link }}" target="_blank">{{ member.opponent_name }}</a></td>
+              </tr>
+            {% endif %}
           {% endfor %}
       </tbody>
     </table>

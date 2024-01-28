@@ -4,7 +4,9 @@
   name: Jerry Carl
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/-xEQlee8QeE?start=1608
+  article:
   opponent_name:
   opponent_link:
 - state: Alabama
@@ -12,7 +14,9 @@
   name: Barry Moore
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/eBUu7yN0HT4
+  article:
   opponent_name:
   opponent_link:
 - state: Alabama
@@ -20,7 +24,9 @@
   name: Mike Rogers
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/mYnnRBScHoE?start=100
+  article:
   opponent_name:
   opponent_link:
 - state: Alabama
@@ -28,7 +34,9 @@
   name: Robert Aderholt
   party: R
   notes:
+  supports_trump: true
   video:
+  article: https://www.facebook.com/RobertAderholtforCongress/videos/im-pleased-and-honored-to-have-president-donald-trumps-endorsement-for-reelectio/550544096683052/
   opponent_name:
   opponent_link:
 - state: Alabama
@@ -36,7 +44,9 @@
   name: Dale Strong
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/G4GmjXI1Btg
+  article:
   opponent_name:
   opponent_link:
 - state: Alabama
@@ -44,7 +54,9 @@
   name: Gary Palmer
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/3fLhjX-mvmQ
+  article:
   opponent_name:
   opponent_link:
 - state: Alabama
@@ -52,7 +64,9 @@
   name: Terri Sewell
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Alaska
@@ -60,7 +74,9 @@
   name: Mary Peltola
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -68,7 +84,9 @@
   name: David Schweikert
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -76,7 +94,9 @@
   name: Eli Crane
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/VDUcqM4XfeI
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -84,7 +104,9 @@
   name: Ruben Gallego
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -92,7 +114,9 @@
   name: Greg Stanton
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -100,7 +124,9 @@
   name: Andy Biggs
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/hEvTBjWWb3Q?start=317
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -108,7 +134,9 @@
   name: Juan Ciscomani
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -116,7 +144,9 @@
   name: Raúl Grijalva
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -124,7 +154,9 @@
   name: Debbie Lesko
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -132,7 +164,9 @@
   name: Paul Gosar
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/9d7YLpBx844
+  article:
   opponent_name:
   opponent_link:
 - state: Arkansas
@@ -140,7 +174,9 @@
   name: Rick Crawford
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arkansas
@@ -148,7 +184,9 @@
   name: French Hill
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arkansas
@@ -156,7 +194,9 @@
   name: Steve Womack
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arkansas
@@ -164,7 +204,9 @@
   name: Bruce Westerman
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -172,7 +214,9 @@
   name: Doug LaMalfa
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/-1DFeZYX0js
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -180,7 +224,9 @@
   name: Jared Huffman
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -188,7 +234,9 @@
   name: Kevin Kiley
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/QzzUJ84s2tI
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -196,7 +244,9 @@
   name: Mike Thompson
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -204,7 +254,9 @@
   name: Tom McClintock
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/xki7bHU5YQk
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -212,7 +264,9 @@
   name: Ami Bera
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -220,7 +274,9 @@
   name: Doris Matsui
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -228,7 +284,9 @@
   name: John Garamendi
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -236,7 +294,9 @@
   name: Josh Harder
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -244,7 +304,9 @@
   name: Mark DeSaulnier
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -252,7 +314,9 @@
   name: Nancy Pelosi
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -260,7 +324,9 @@
   name: Barbara Lee
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -268,7 +334,9 @@
   name: John Duarte
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -276,7 +344,9 @@
   name: Eric Swalwell
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -284,7 +354,9 @@
   name: Kevin Mullin
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -292,7 +364,9 @@
   name: Anna Eshoo
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -300,7 +374,9 @@
   name: Ro Khanna
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -308,7 +384,9 @@
   name: Zoe Lofgren
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -316,7 +394,9 @@
   name: Jimmy Panetta
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -324,7 +404,9 @@
   name: Kevin McCarthy
   party: R
   notes: "(until December 31 2023)[j] - Vacant"
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/y0QRFFQaY-g
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -332,15 +414,19 @@
   name: Jim Costa
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
   district: '22'
   name: David Valadao
   party: R
-  notes:
+  notes: Chris Matys tried to primary Valadao as a "Trump Conservative".
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -348,7 +434,9 @@
   name: Jay Obernolte
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/OsYsX0_rO1E?start=386
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -356,7 +444,9 @@
   name: Salud Carbajal
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -364,7 +454,9 @@
   name: Raul Ruiz
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -372,7 +464,9 @@
   name: Julia Brownley
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -380,7 +474,9 @@
   name: Mike Garcia
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -388,7 +484,9 @@
   name: Judy Chu
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -396,7 +494,9 @@
   name: Tony Cárdenas
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -404,7 +504,9 @@
   name: Adam Schiff
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -412,7 +514,9 @@
   name: Grace Napolitano
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -420,7 +524,9 @@
   name: Brad Sherman
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -428,7 +534,9 @@
   name: Pete Aguilar
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -436,7 +544,9 @@
   name: Jimmy Gomez
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -444,7 +554,9 @@
   name: Norma Torres
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -452,7 +564,9 @@
   name: Ted Lieu
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -460,7 +574,9 @@
   name: Sydney Kamlager-Dove
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -468,7 +584,9 @@
   name: Linda Sánchez
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -476,7 +594,9 @@
   name: Mark Takano
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -484,7 +604,9 @@
   name: Young Kim
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/21j9M8ezQTw
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -492,7 +614,9 @@
   name: Ken Calvert
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -500,7 +624,9 @@
   name: Robert Garcia
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -508,7 +634,9 @@
   name: Maxine Waters
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -516,7 +644,9 @@
   name: Nanette Barragán
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -524,7 +654,9 @@
   name: Michelle Steel
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -532,7 +664,9 @@
   name: Lou Correa
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -540,7 +674,9 @@
   name: Katie Porter
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -548,7 +684,9 @@
   name: Darrell Issa
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -556,7 +694,9 @@
   name: Mike Levin
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -564,7 +704,9 @@
   name: Scott Peters
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -572,7 +714,9 @@
   name: Sara Jacobs
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -580,7 +724,9 @@
   name: Juan Vargas
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -588,7 +734,9 @@
   name: Diana DeGette
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -596,7 +744,9 @@
   name: Joe Neguse
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -604,7 +754,9 @@
   name: Lauren Boebert
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/x-Hs7KKyQOg
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -612,7 +764,9 @@
   name: Ken Buck
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -620,7 +774,9 @@
   name: Doug Lamborn
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -628,7 +784,9 @@
   name: Jason Crow
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -636,7 +794,9 @@
   name: Brittany Pettersen
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -644,7 +804,9 @@
   name: Yadira Caraveo
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Connecticut
@@ -652,7 +814,9 @@
   name: John B. Larson
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Connecticut
@@ -660,7 +824,9 @@
   name: Joe Courtney
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Connecticut
@@ -668,7 +834,9 @@
   name: Rosa DeLauro
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Connecticut
@@ -676,7 +844,9 @@
   name: Jim Himes
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Connecticut
@@ -684,7 +854,9 @@
   name: Jahana Hayes
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Delaware
@@ -692,7 +864,9 @@
   name: Lisa Blunt Rochester
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -700,7 +874,9 @@
   name: Matt Gaetz
   party: R
   notes:
-  video:
+  supports_trump: TRUE
+  video: https://www.youtube.com/embed/z7eUQn-SzzI
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -708,7 +884,9 @@
   name: Neal Dunn
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -716,7 +894,9 @@
   name: Kat Cammack
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/TXDgJp6skxc
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -724,7 +904,9 @@
   name: Aaron Bean
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -732,7 +914,9 @@
   name: John Rutherford
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -740,7 +924,9 @@
   name: Michael Waltz
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/7EXUoHZGsGQ
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -748,7 +934,9 @@
   name: Cory Mills
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/Dn_vfDkL1ok
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -756,7 +944,9 @@
   name: Bill Posey
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -764,7 +954,9 @@
   name: Darren Soto
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -772,31 +964,39 @@
   name: Maxwell Frost
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
   district: '11'
   name: Daniel Webster
   party: R
-  notes:
+  notes: Laura Loomer is running at him from the right.
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
   district: '12'
   name: Gus Bilirakis
   party: R
-  notes:
+  notes: Was apparently endorsed by Trump in 2022.
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
   district: '13'
   name: Anna Paulina Luna
   party: R
-  notes:
-  video:
+  notes: Opens her interview touting her "Trump Endorsed" status.
+  supports_trump: true
+  video: https://www.youtube.com/embed/zpCu19HP9Qo
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -804,7 +1004,9 @@
   name: Kathy Castor
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
