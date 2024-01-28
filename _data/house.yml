@@ -134,7 +134,9 @@
   name: Juan Ciscomani
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -142,7 +144,9 @@
   name: Raúl Grijalva
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -150,7 +154,9 @@
   name: Debbie Lesko
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -158,7 +164,9 @@
   name: Paul Gosar
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/9d7YLpBx844
+  article:
   opponent_name:
   opponent_link:
 - state: Arkansas
@@ -166,7 +174,9 @@
   name: Rick Crawford
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arkansas
@@ -174,7 +184,9 @@
   name: French Hill
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arkansas
@@ -182,7 +194,9 @@
   name: Steve Womack
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arkansas
@@ -190,7 +204,9 @@
   name: Bruce Westerman
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -198,7 +214,9 @@
   name: Doug LaMalfa
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/-1DFeZYX0js
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -206,7 +224,9 @@
   name: Jared Huffman
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -214,7 +234,9 @@
   name: Kevin Kiley
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/QzzUJ84s2tI
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -222,7 +244,9 @@
   name: Mike Thompson
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -230,7 +254,9 @@
   name: Tom McClintock
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/xki7bHU5YQk
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -238,7 +264,9 @@
   name: Ami Bera
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -246,7 +274,9 @@
   name: Doris Matsui
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -254,7 +284,9 @@
   name: John Garamendi
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -262,7 +294,9 @@
   name: Josh Harder
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -270,7 +304,9 @@
   name: Mark DeSaulnier
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -278,7 +314,9 @@
   name: Nancy Pelosi
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -286,7 +324,9 @@
   name: Barbara Lee
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -294,7 +334,9 @@
   name: John Duarte
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -302,7 +344,9 @@
   name: Eric Swalwell
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -310,7 +354,9 @@
   name: Kevin Mullin
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -318,7 +364,9 @@
   name: Anna Eshoo
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -326,7 +374,9 @@
   name: Ro Khanna
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -334,7 +384,9 @@
   name: Zoe Lofgren
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -342,7 +394,9 @@
   name: Jimmy Panetta
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
