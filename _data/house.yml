@@ -474,7 +474,9 @@
   name: Mike Garcia
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -482,7 +484,9 @@
   name: Judy Chu
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -490,7 +494,9 @@
   name: Tony Cárdenas
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -498,7 +504,9 @@
   name: Adam Schiff
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -506,7 +514,9 @@
   name: Grace Napolitano
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -514,7 +524,9 @@
   name: Brad Sherman
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -522,7 +534,9 @@
   name: Pete Aguilar
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -530,7 +544,9 @@
   name: Jimmy Gomez
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -538,7 +554,9 @@
   name: Norma Torres
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -546,7 +564,9 @@
   name: Ted Lieu
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -554,7 +574,9 @@
   name: Sydney Kamlager-Dove
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -562,7 +584,9 @@
   name: Linda Sánchez
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -570,7 +594,9 @@
   name: Mark Takano
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
