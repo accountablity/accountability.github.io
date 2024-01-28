@@ -904,7 +904,9 @@
   name: Aaron Bean
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -912,7 +914,9 @@
   name: John Rutherford
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
