@@ -774,7 +774,9 @@
   name: Doug Lamborn
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -782,7 +784,9 @@
   name: Jason Crow
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -790,7 +794,9 @@
   name: Brittany Pettersen
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
@@ -798,7 +804,9 @@
   name: Yadira Caraveo
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Connecticut
@@ -806,7 +814,9 @@
   name: John B. Larson
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Connecticut
@@ -814,7 +824,9 @@
   name: Joe Courtney
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Connecticut
@@ -822,7 +834,9 @@
   name: Rosa DeLauro
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Connecticut
@@ -830,7 +844,9 @@
   name: Jim Himes
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Connecticut
@@ -838,7 +854,9 @@
   name: Jahana Hayes
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Delaware
@@ -846,7 +864,9 @@
   name: Lisa Blunt Rochester
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
