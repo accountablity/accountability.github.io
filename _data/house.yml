@@ -36,7 +36,7 @@
   notes:
   supports_trump: true
   video:
-  article:https://www.facebook.com/RobertAderholtforCongress/videos/im-pleased-and-honored-to-have-president-donald-trumps-endorsement-for-reelectio/550544096683052/
+  article: https://www.facebook.com/RobertAderholtforCongress/videos/im-pleased-and-honored-to-have-president-donald-trumps-endorsement-for-reelectio/550544096683052/
   opponent_name:
   opponent_link:
 - state: Alabama
@@ -435,7 +435,7 @@
   party: R
   notes:
   supports_trump: true
-  video: https://youtu.be/OsYsX0_rO1E?t=386
+  video: https://www.youtube.com/embed/OsYsX0_rO1E?t=386
   article:
   opponent_name:
   opponent_link:
@@ -604,7 +604,9 @@
   name: Young Kim
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/21j9M8ezQTw
+  article:
   opponent_name:
   opponent_link:
 - state: California
