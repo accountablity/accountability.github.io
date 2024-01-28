@@ -654,7 +654,9 @@
   name: Michelle Steel
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -662,7 +664,9 @@
   name: Lou Correa
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
@@ -670,7 +674,9 @@
   name: Katie Porter
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: California
