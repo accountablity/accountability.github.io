@@ -894,7 +894,9 @@
   name: Kat Cammack
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/TXDgJp6skxc
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
