@@ -84,7 +84,9 @@
   name: David Schweikert
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -92,7 +94,9 @@
   name: Eli Crane
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/VDUcqM4XfeI
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -100,7 +104,9 @@
   name: Ruben Gallego
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -108,7 +114,9 @@
   name: Greg Stanton
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
@@ -116,7 +124,9 @@
   name: Andy Biggs
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/hEvTBjWWb3Q?start=317
+  article:
   opponent_name:
   opponent_link:
 - state: Arizona
