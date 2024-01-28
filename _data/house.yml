@@ -4,7 +4,8 @@
   name: Jerry Carl
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/-xEQlee8QeE?start=1608
   opponent_name:
   opponent_link:
 - state: Alabama
