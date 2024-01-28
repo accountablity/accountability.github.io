@@ -754,7 +754,9 @@
   name: Lauren Boebert
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/x-Hs7KKyQOg
+  article:
   opponent_name:
   opponent_link:
 - state: Colorado
