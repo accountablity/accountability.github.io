@@ -54,7 +54,9 @@
   name: Gary Palmer
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/3fLhjX-mvmQ
+  article:
   opponent_name:
   opponent_link:
 - state: Alabama
