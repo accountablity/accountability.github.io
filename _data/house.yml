@@ -24,7 +24,9 @@
   name: Mike Rogers
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/mYnnRBScHoE?start=100
+  article:
   opponent_name:
   opponent_link:
 - state: Alabama
