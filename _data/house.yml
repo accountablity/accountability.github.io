@@ -934,7 +934,9 @@
   name: Cory Mills
   party: R
   notes:
-  video:
+  supports_trump: true
+  video: https://www.youtube.com/embed/Dn_vfDkL1ok
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -942,7 +944,9 @@
   name: Bill Posey
   party: R
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -950,7 +954,9 @@
   name: Darren Soto
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
@@ -958,7 +964,9 @@
   name: Maxwell Frost
   party: D
   notes:
+  supports_trump:
   video:
+  article:
   opponent_name:
   opponent_link:
 - state: Florida
